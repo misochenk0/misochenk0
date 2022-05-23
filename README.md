@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @misochenk0
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently working with React/Vue/TypeScript projects 
 
 <!---
